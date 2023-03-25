@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Pinterest-Clone",
+    "slug": "Pinterest-Clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
